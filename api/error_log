@@ -1,0 +1,90 @@
+[16-May-2020 22:20:29 America/Boise] PHP Warning:  Invalid argument supplied for foreach() in /home3/theyuxin/public_html/api/viewed_products.php on line 73
+[16-May-2020 22:20:29 America/Boise] PHP Warning:  Invalid argument supplied for foreach() in /home3/theyuxin/public_html/api/viewed_products.php on line 73
+[16-May-2020 22:20:49 America/Boise] PHP Warning:  Invalid argument supplied for foreach() in /home3/theyuxin/public_html/api/viewed_products.php on line 73
+[28-May-2020 12:40:56 America/Boise] PHP Warning:  array_merge(): Argument #2 is not an array in /home3/theyuxin/public_html/api/top_rating_products.php on line 84
+[28-May-2020 12:40:56 America/Boise] PHP Warning:  array_merge(): Argument #1 is not an array in /home3/theyuxin/public_html/api/top_rating_products.php on line 86
+[28-May-2020 12:40:56 America/Boise] PHP Warning:  usort() expects parameter 1 to be array, null given in /home3/theyuxin/public_html/api/top_rating_products.php on line 94
+[29-May-2020 12:39:43 America/Boise] PHP Warning:  array_merge(): Argument #1 is not an array in /home3/theyuxin/public_html/api/top_products.php on line 84
+[29-May-2020 12:39:43 America/Boise] PHP Warning:  array_merge(): Argument #1 is not an array in /home3/theyuxin/public_html/api/top_products.php on line 86
+[29-May-2020 12:39:43 America/Boise] PHP Warning:  usort() expects parameter 1 to be array, null given in /home3/theyuxin/public_html/api/top_products.php on line 94
+[30-May-2020 12:39:03 America/Boise] PHP Warning:  array_merge(): Argument #1 is not an array in /home3/theyuxin/public_html/api/top_products.php on line 84
+[30-May-2020 12:39:03 America/Boise] PHP Warning:  array_merge(): Argument #1 is not an array in /home3/theyuxin/public_html/api/top_products.php on line 86
+[30-May-2020 12:39:03 America/Boise] PHP Warning:  usort() expects parameter 1 to be array, null given in /home3/theyuxin/public_html/api/top_products.php on line 94
+[31-May-2020 12:37:17 America/Boise] PHP Warning:  array_merge(): Argument #1 is not an array in /home3/theyuxin/public_html/api/top_products.php on line 84
+[31-May-2020 12:37:17 America/Boise] PHP Warning:  array_merge(): Argument #1 is not an array in /home3/theyuxin/public_html/api/top_products.php on line 86
+[31-May-2020 12:37:17 America/Boise] PHP Warning:  usort() expects parameter 1 to be array, null given in /home3/theyuxin/public_html/api/top_products.php on line 94
+[01-Jun-2020 12:39:42 America/Boise] PHP Warning:  array_merge(): Argument #1 is not an array in /home3/theyuxin/public_html/api/top_products.php on line 84
+[01-Jun-2020 12:39:42 America/Boise] PHP Warning:  array_merge(): Argument #1 is not an array in /home3/theyuxin/public_html/api/top_products.php on line 86
+[01-Jun-2020 12:39:42 America/Boise] PHP Warning:  usort() expects parameter 1 to be array, null given in /home3/theyuxin/public_html/api/top_products.php on line 94
+[03-Jun-2020 12:40:41 America/Boise] PHP Warning:  array_merge(): Argument #1 is not an array in /home3/theyuxin/public_html/api/top_rating_products.php on line 84
+[03-Jun-2020 12:40:41 America/Boise] PHP Warning:  array_merge(): Argument #2 is not an array in /home3/theyuxin/public_html/api/top_rating_products.php on line 85
+[03-Jun-2020 12:40:41 America/Boise] PHP Warning:  array_merge(): Argument #1 is not an array in /home3/theyuxin/public_html/api/top_rating_products.php on line 86
+[03-Jun-2020 12:40:41 America/Boise] PHP Warning:  usort() expects parameter 1 to be array, null given in /home3/theyuxin/public_html/api/top_rating_products.php on line 94
+[04-Jun-2020 12:41:07 America/Boise] PHP Warning:  array_merge(): Argument #1 is not an array in /home3/theyuxin/public_html/api/top_rating_products.php on line 84
+[04-Jun-2020 12:41:07 America/Boise] PHP Warning:  array_merge(): Argument #2 is not an array in /home3/theyuxin/public_html/api/top_rating_products.php on line 85
+[04-Jun-2020 12:41:07 America/Boise] PHP Warning:  array_merge(): Argument #1 is not an array in /home3/theyuxin/public_html/api/top_rating_products.php on line 86
+[04-Jun-2020 12:41:07 America/Boise] PHP Warning:  usort() expects parameter 1 to be array, null given in /home3/theyuxin/public_html/api/top_rating_products.php on line 94
+[06-Jun-2020 11:26:27 America/Boise] PHP Warning:  array_merge(): Argument #1 is not an array in /home3/theyuxin/public_html/api/top_products.php on line 84
+[06-Jun-2020 11:26:27 America/Boise] PHP Warning:  array_merge(): Argument #2 is not an array in /home3/theyuxin/public_html/api/top_products.php on line 85
+[06-Jun-2020 11:26:27 America/Boise] PHP Warning:  array_merge(): Argument #1 is not an array in /home3/theyuxin/public_html/api/top_products.php on line 86
+[06-Jun-2020 11:26:27 America/Boise] PHP Warning:  usort() expects parameter 1 to be array, null given in /home3/theyuxin/public_html/api/top_products.php on line 94
+[06-Jun-2020 11:27:41 America/Boise] PHP Warning:  array_merge(): Argument #1 is not an array in /home3/theyuxin/public_html/api/top_rating_products.php on line 84
+[06-Jun-2020 11:27:41 America/Boise] PHP Warning:  array_merge(): Argument #2 is not an array in /home3/theyuxin/public_html/api/top_rating_products.php on line 85
+[06-Jun-2020 11:27:41 America/Boise] PHP Warning:  array_merge(): Argument #1 is not an array in /home3/theyuxin/public_html/api/top_rating_products.php on line 86
+[06-Jun-2020 11:27:41 America/Boise] PHP Warning:  usort() expects parameter 1 to be array, null given in /home3/theyuxin/public_html/api/top_rating_products.php on line 94
+[06-Jun-2020 11:27:49 America/Boise] PHP Warning:  array_merge(): Argument #1 is not an array in /home3/theyuxin/public_html/api/top_products.php on line 84
+[06-Jun-2020 11:27:49 America/Boise] PHP Warning:  array_merge(): Argument #2 is not an array in /home3/theyuxin/public_html/api/top_products.php on line 85
+[06-Jun-2020 11:27:49 America/Boise] PHP Warning:  array_merge(): Argument #1 is not an array in /home3/theyuxin/public_html/api/top_products.php on line 86
+[06-Jun-2020 11:27:49 America/Boise] PHP Warning:  usort() expects parameter 1 to be array, null given in /home3/theyuxin/public_html/api/top_products.php on line 94
+[06-Jun-2020 11:28:10 America/Boise] PHP Warning:  array_merge(): Argument #1 is not an array in /home3/theyuxin/public_html/api/top_products.php on line 84
+[06-Jun-2020 11:28:10 America/Boise] PHP Warning:  array_merge(): Argument #2 is not an array in /home3/theyuxin/public_html/api/top_products.php on line 85
+[06-Jun-2020 11:28:10 America/Boise] PHP Warning:  array_merge(): Argument #1 is not an array in /home3/theyuxin/public_html/api/top_products.php on line 86
+[06-Jun-2020 11:28:10 America/Boise] PHP Warning:  usort() expects parameter 1 to be array, null given in /home3/theyuxin/public_html/api/top_products.php on line 94
+[06-Jun-2020 11:29:03 America/Boise] PHP Warning:  array_merge(): Argument #1 is not an array in /home3/theyuxin/public_html/api/top_rating_products.php on line 84
+[06-Jun-2020 11:29:03 America/Boise] PHP Warning:  array_merge(): Argument #2 is not an array in /home3/theyuxin/public_html/api/top_rating_products.php on line 85
+[06-Jun-2020 11:29:03 America/Boise] PHP Warning:  array_merge(): Argument #1 is not an array in /home3/theyuxin/public_html/api/top_rating_products.php on line 86
+[06-Jun-2020 11:29:03 America/Boise] PHP Warning:  usort() expects parameter 1 to be array, null given in /home3/theyuxin/public_html/api/top_rating_products.php on line 94
+[06-Jun-2020 11:29:23 America/Boise] PHP Warning:  array_merge(): Argument #1 is not an array in /home3/theyuxin/public_html/api/top_rating_products.php on line 84
+[06-Jun-2020 11:29:23 America/Boise] PHP Warning:  array_merge(): Argument #2 is not an array in /home3/theyuxin/public_html/api/top_rating_products.php on line 85
+[06-Jun-2020 11:29:23 America/Boise] PHP Warning:  array_merge(): Argument #1 is not an array in /home3/theyuxin/public_html/api/top_rating_products.php on line 86
+[06-Jun-2020 11:29:23 America/Boise] PHP Warning:  usort() expects parameter 1 to be array, null given in /home3/theyuxin/public_html/api/top_rating_products.php on line 94
+[06-Jun-2020 12:20:07 America/Boise] PHP Warning:  array_merge(): Argument #1 is not an array in /home3/theyuxin/public_html/api/top_rating_products.php on line 84
+[06-Jun-2020 12:20:07 America/Boise] PHP Warning:  array_merge(): Argument #2 is not an array in /home3/theyuxin/public_html/api/top_rating_products.php on line 85
+[06-Jun-2020 12:20:07 America/Boise] PHP Warning:  array_merge(): Argument #1 is not an array in /home3/theyuxin/public_html/api/top_rating_products.php on line 86
+[06-Jun-2020 12:20:07 America/Boise] PHP Warning:  usort() expects parameter 1 to be array, null given in /home3/theyuxin/public_html/api/top_rating_products.php on line 94
+[06-Jun-2020 12:21:16 America/Boise] PHP Warning:  array_merge(): Argument #1 is not an array in /home3/theyuxin/public_html/api/top_products.php on line 84
+[06-Jun-2020 12:21:16 America/Boise] PHP Warning:  array_merge(): Argument #2 is not an array in /home3/theyuxin/public_html/api/top_products.php on line 85
+[06-Jun-2020 12:21:16 America/Boise] PHP Warning:  array_merge(): Argument #1 is not an array in /home3/theyuxin/public_html/api/top_products.php on line 86
+[06-Jun-2020 12:21:16 America/Boise] PHP Warning:  usort() expects parameter 1 to be array, null given in /home3/theyuxin/public_html/api/top_products.php on line 94
+[06-Jun-2020 12:21:29 America/Boise] PHP Warning:  array_merge(): Argument #1 is not an array in /home3/theyuxin/public_html/api/top_rating_products.php on line 84
+[06-Jun-2020 12:21:29 America/Boise] PHP Warning:  array_merge(): Argument #2 is not an array in /home3/theyuxin/public_html/api/top_rating_products.php on line 85
+[06-Jun-2020 12:21:29 America/Boise] PHP Warning:  array_merge(): Argument #1 is not an array in /home3/theyuxin/public_html/api/top_rating_products.php on line 86
+[06-Jun-2020 12:21:29 America/Boise] PHP Warning:  usort() expects parameter 1 to be array, null given in /home3/theyuxin/public_html/api/top_rating_products.php on line 94
+[06-Jun-2020 12:21:49 America/Boise] PHP Warning:  array_merge(): Argument #1 is not an array in /home3/theyuxin/public_html/api/top_rating_products.php on line 84
+[06-Jun-2020 12:21:49 America/Boise] PHP Warning:  array_merge(): Argument #2 is not an array in /home3/theyuxin/public_html/api/top_rating_products.php on line 85
+[06-Jun-2020 12:21:49 America/Boise] PHP Warning:  array_merge(): Argument #1 is not an array in /home3/theyuxin/public_html/api/top_rating_products.php on line 86
+[06-Jun-2020 12:21:49 America/Boise] PHP Warning:  usort() expects parameter 1 to be array, null given in /home3/theyuxin/public_html/api/top_rating_products.php on line 94
+[06-Jun-2020 12:22:38 America/Boise] PHP Warning:  array_merge(): Argument #1 is not an array in /home3/theyuxin/public_html/api/top_products.php on line 84
+[06-Jun-2020 12:22:38 America/Boise] PHP Warning:  array_merge(): Argument #2 is not an array in /home3/theyuxin/public_html/api/top_products.php on line 85
+[06-Jun-2020 12:22:38 America/Boise] PHP Warning:  array_merge(): Argument #1 is not an array in /home3/theyuxin/public_html/api/top_products.php on line 86
+[06-Jun-2020 12:22:38 America/Boise] PHP Warning:  usort() expects parameter 1 to be array, null given in /home3/theyuxin/public_html/api/top_products.php on line 94
+[06-Jun-2020 12:22:59 America/Boise] PHP Warning:  array_merge(): Argument #1 is not an array in /home3/theyuxin/public_html/api/top_products.php on line 84
+[06-Jun-2020 12:22:59 America/Boise] PHP Warning:  array_merge(): Argument #2 is not an array in /home3/theyuxin/public_html/api/top_products.php on line 85
+[06-Jun-2020 12:22:59 America/Boise] PHP Warning:  array_merge(): Argument #1 is not an array in /home3/theyuxin/public_html/api/top_products.php on line 86
+[06-Jun-2020 12:22:59 America/Boise] PHP Warning:  usort() expects parameter 1 to be array, null given in /home3/theyuxin/public_html/api/top_products.php on line 94
+[07-Jun-2020 12:44:42 America/Boise] PHP Warning:  array_merge(): Argument #1 is not an array in /home3/theyuxin/public_html/api/top_products.php on line 84
+[07-Jun-2020 12:44:42 America/Boise] PHP Warning:  array_merge(): Argument #2 is not an array in /home3/theyuxin/public_html/api/top_products.php on line 85
+[07-Jun-2020 12:44:42 America/Boise] PHP Warning:  array_merge(): Argument #1 is not an array in /home3/theyuxin/public_html/api/top_products.php on line 86
+[07-Jun-2020 12:44:42 America/Boise] PHP Warning:  usort() expects parameter 1 to be array, null given in /home3/theyuxin/public_html/api/top_products.php on line 94
+[08-Jun-2020 12:41:10 America/Boise] PHP Warning:  array_merge(): Argument #1 is not an array in /home3/theyuxin/public_html/api/top_rating_products.php on line 84
+[08-Jun-2020 12:41:10 America/Boise] PHP Warning:  array_merge(): Argument #2 is not an array in /home3/theyuxin/public_html/api/top_rating_products.php on line 85
+[08-Jun-2020 12:41:10 America/Boise] PHP Warning:  array_merge(): Argument #1 is not an array in /home3/theyuxin/public_html/api/top_rating_products.php on line 86
+[08-Jun-2020 12:41:10 America/Boise] PHP Warning:  usort() expects parameter 1 to be array, null given in /home3/theyuxin/public_html/api/top_rating_products.php on line 94
+[09-Jun-2020 12:43:06 America/Boise] PHP Warning:  array_merge(): Argument #1 is not an array in /home3/theyuxin/public_html/api/top_products.php on line 84
+[09-Jun-2020 12:43:06 America/Boise] PHP Warning:  array_merge(): Argument #2 is not an array in /home3/theyuxin/public_html/api/top_products.php on line 85
+[09-Jun-2020 12:43:06 America/Boise] PHP Warning:  array_merge(): Argument #1 is not an array in /home3/theyuxin/public_html/api/top_products.php on line 86
+[09-Jun-2020 12:43:06 America/Boise] PHP Warning:  usort() expects parameter 1 to be array, null given in /home3/theyuxin/public_html/api/top_products.php on line 94
+[10-Jun-2020 12:40:52 America/Boise] PHP Warning:  array_merge(): Argument #1 is not an array in /home3/theyuxin/public_html/api/top_products.php on line 84
+[10-Jun-2020 12:40:52 America/Boise] PHP Warning:  array_merge(): Argument #2 is not an array in /home3/theyuxin/public_html/api/top_products.php on line 85
+[10-Jun-2020 12:40:52 America/Boise] PHP Warning:  array_merge(): Argument #1 is not an array in /home3/theyuxin/public_html/api/top_products.php on line 86
+[10-Jun-2020 12:40:52 America/Boise] PHP Warning:  usort() expects parameter 1 to be array, null given in /home3/theyuxin/public_html/api/top_products.php on line 94
